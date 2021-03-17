@@ -5,3 +5,6 @@ dist
 build
 scripts/
 logs/
+
+# VS Code
+.vscode
